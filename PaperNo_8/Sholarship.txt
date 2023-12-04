@@ -1,0 +1,7 @@
+StudentID	Student Name	ClassID	     Class Name			GPA
+20IT1263	Samuen Chan	20IT	20 Information Technology	8.7
+21IT1985	Luke Antony	21IT	21 Information Technology	8.6
+21IT2045	Anna Lisa	21IT	21 Information Technology	6.7
+22AI2451	Joana Ian	22AI	22 Artificial Intelligence	6.4
+20AI3683	Timothy Anna	20AI	20 Artificial Intelligence	7.5
+22AI4205	Brandon Mike	22AI	22 Artificial Intelligence	8.3

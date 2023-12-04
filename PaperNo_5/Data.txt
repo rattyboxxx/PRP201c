@@ -1,0 +1,6 @@
+employee list
+Name	 	rate	 	salary	   	
+Nga         2.34   		1490000   	      
+Phi    		3.0  		3490000   	  
+Loi      	4.32  		5490000   	
+		
